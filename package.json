@@ -1,0 +1,16 @@
+{
+  "name": "jsbench",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "lru-cache": "^11.0.2",
+    "mnemonist": "^0.40.3",
+    "neocache": "^2.3.1",
+    "quick-lru": "^7.0.0",
+    "s3-fifo-cache": "^0.1.0",
+    "tiny-lru": "^11.2.11"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
