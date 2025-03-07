@@ -15,6 +15,8 @@ bun run
 This project was created using `bun init` in bun v1.2.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 # npmcachebench
 
+Using https://analytics.wikimedia.org/published/datasets/caching/2019/text/cache-t-00.gz for the benchmark from https://wikitech.wikimedia.org/wiki/Data_Platform/Data_Lake/Traffic/Caching
+
 ```
 Loaded 9826681 values from file
 
